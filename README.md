@@ -8,7 +8,7 @@ sudo gem install lolcat
 
 run:
 ```
-git clone https://gtihub.com/rouze-d/btc-miner.git
+git clone https://github.com/rouze-d/btc-miner.git
 chmod +x -R btc-miner
 cd btc-miner
 bash btcminer.sh
