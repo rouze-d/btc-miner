@@ -19,9 +19,8 @@ run:
 cd btc-miner
 bash btcminer.sh
 ```
-
 ## TERMS AND CONDITIONS
-<br>I will not be responsible for damages / claim compensation for any damage from the use of this script.
-<br>You can modify and share this script with whomever it.
-<br>This script can be used for commercial purposes, but NOT for SALE or RENT.
-<br>If you modify these scripts, still CAN NOT for SALE or RENT.
+- I will not be responsible for damages / claim compensation for any damage from the use of this script.
+- You can modify and share this script with whomever it.
+- This script can be used for commercial purposes, but NOT for SALE or RENT.
+- If you modify these scripts, still CAN NOT for SALE or RENT.
