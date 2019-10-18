@@ -6,10 +6,16 @@ sudo apt-get install nocache gnome-terminal build-essential libcurl4-openssl-dev
 sudo gem install lolcat
 ```
 
-run:
+download:
 ```
 git clone https://github.com/rouze-d/btc-miner.git
+```
+make sure you have Permission this script
+```
 chmod +x -R btc-miner
+```
+run:
+```
 cd btc-miner
 bash btcminer.sh
 ```
